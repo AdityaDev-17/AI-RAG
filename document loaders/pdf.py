@@ -3,7 +3,7 @@ from langchain_text_splitters import TokenTextSplitter
 
 splitter = TokenTextSplitter(chunk_size=100, chunk_overlap=10)
 
-data = PyPDFLoader(r"U:\AI\AIProjects\GenAI-RAG\document loaders\Machine_Learning_Fundamentals.pdf")
+data = PyPDFLoader(r"U:\AI\AIProjects\AI-RAG\document loaders\Machine_Learning_Fundamentals.pdf")
 
 docs = data.load()
 

@@ -10,7 +10,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-data = PyPDFLoader(r"U:\AI\AIProjects\GenAI-RAG\document loaders\deeplearning.pdf")
+data = PyPDFLoader(r"U:\AI\AIProjects\AI-RAG\document loaders\deeplearning.pdf")
 docs = data.load()
 
 splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
