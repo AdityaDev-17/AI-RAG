@@ -1,0 +1,109 @@
+# ============================
+# Core LLM Framework
+# ============================
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langchain-mistralai
+
+# ============================
+# OpenAI & Mistral
+# ============================
+openai
+mistralai
+
+# ============================
+# Vector Database
+# ============================
+chromadb
+
+# ============================
+# Embeddings
+# ============================
+sentence-transformers
+tiktoken
+
+# ============================
+# Document Processing
+# ============================
+pypdf
+pdfplumber
+pymupdf
+python-docx
+unstructured
+
+# ============================
+# Text Splitting & NLP
+# ============================
+nltk
+spacy
+
+# ============================
+# Data Handling
+# ============================
+pandas
+numpy
+
+# ============================
+# Web Scraping / Web Loading
+# ============================
+beautifulsoup4
+lxml
+requests
+
+# ============================
+# Environment Variables
+# ============================
+python-dotenv
+
+# ============================
+# API Backend
+# ============================
+fastapi
+uvicorn
+
+# ============================
+# Evaluation & Monitoring
+# ============================
+ragas
+datasets
+
+# ============================
+# Reranking (Recommended)
+# ============================
+rank-bm25
+cohere
+
+# ============================
+# Async Support
+# ============================
+aiohttp
+
+# ============================
+# Logging & Utilities
+# ============================
+tqdm
+rich
+
+# ============================
+# Optional OCR
+# ============================
+pytesseract
+pillow
+
+# ============================
+# Optional Local Embeddings
+# ============================
+transformers
+torch
+
+# ============================
+# Optional Hugging Face Support
+# ============================
+huggingface-hub
+
+# ============================
+# Serialization
+# ============================
+joblib

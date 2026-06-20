@@ -1,0 +1,70 @@
+Machine Learning Fundamentals
+
+1. Introduction
+Machine Learning (ML) is a branch of Artificial Intelligence that enables computers to learn patterns from data and make predictions or decisions without being explicitly programmed.
+
+2. Types of Machine Learning
+- Supervised Learning: Uses labeled data. Examples: Linear Regression, Logistic Regression, Decision Trees.
+- Unsupervised Learning: Uses unlabeled data. Examples: K-Means Clustering, PCA.
+- Reinforcement Learning: Agents learn through rewards and penalties.
+
+3. ML Workflow
+1. Collect Data
+2. Clean and Preprocess Data
+3. Feature Engineering
+4. Split Data into Training and Testing Sets
+5. Train Model
+6. Evaluate Model
+7. Deploy Model
+8. Monitor Performance
+
+4. Important Concepts
+- Features: Input variables.
+- Target Variable: Output variable.
+- Training Set: Data used for learning.
+- Test Set: Data used for evaluation.
+- Validation Set: Data used for tuning.
+
+5. Common Algorithms
+- Linear Regression
+- Logistic Regression
+- Decision Trees
+- Random Forest
+- Support Vector Machines
+- K-Nearest Neighbors
+- Neural Networks
+
+6. Evaluation Metrics
+Classification:
+- Accuracy
+- Precision
+- Recall
+- F1 Score
+- ROC-AUC
+
+Regression:
+- MAE
+- MSE
+- RMSE
+- R-Squared
+
+7. Overfitting and Underfitting
+Overfitting occurs when a model memorizes training data and performs poorly on unseen data.
+Underfitting occurs when a model fails to capture patterns in the data.
+
+8. Feature Engineering
+Includes scaling, normalization, encoding categorical variables, and feature selection.
+
+9. Deep Learning
+A subset of ML that uses neural networks with multiple layers to learn complex patterns.
+
+10. Applications
+- Recommendation Systems
+- Fraud Detection
+- Healthcare Diagnostics
+- Computer Vision
+- Natural Language Processing
+- Autonomous Vehicles
+
+11. Conclusion
+Machine Learning is a foundational technology for modern AI systems and is widely used across industries.
